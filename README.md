@@ -25,3 +25,20 @@
 </a>
 
 <div align="center">
+
+[![](https://moe-counter.glitch.me/get/@:iamDestroy?theme=aso)](https://moe-counter.glitch.me)
+
+[![committers.top badge](https://user-badge.committers.top/venezuela/iamDestroy.svg)](https://committers.top/venezuela#iamDestroy)
+
+</div>
+
+<p align="center"> 
+<img src="https://github.com/GataNina-Li/GataNina-Li/blob/main/line.gif" width="400vw"> 
+</p> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=ADF7CC&center=true&vCenter=true&width=435&height=30&lines=%F0%9F%92%BB+MIS+PROYECTOS+%F0%9F%92%BB" alt="Typing SVG" /></a>
+
+<a href="https://github.com/iamDestroy/YukiBot-MD">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=iamDestroy&repo=YukiBot-MD&theme=rose" />
+</a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3A80F3&height=120&section=footer"/>
