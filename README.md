@@ -15,7 +15,7 @@
 
 <div align="center">
 
-[![WhatsApp](https://img.shields.io/badge/Yuki_WaBot_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vaz6RTR0LKZIKwudX32x)
+[![WhatsApp](https://img.shields.io/badge/Everligth_Wa_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vaz6RTR0LKZIKwudX32x)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=DA51F7&center=true&vCenter=true&width=435&lines=%F0%9F%93%8B+ESTAD%C3%8DSTICAS+%F0%9F%93%8B" alt="Typing SVG" /></a>
 </div>
@@ -24,7 +24,7 @@
 </a>
   
 [![](https://moe-counter.glitch.me/get/@:iamDestroy?theme=aso)](https://moe-counter.glitch.me)
-[![committers.top badge](https://user-badge.committers.top/perú/Angelithoxz.svg)](https://committers.top/perú#Angelithoxz)
+[![committers.top badge](https://user-badge.committers.top/peru/Angelithoxz.svg)](https://committers.top/peru#Angelithoxz)
 
 </div>
 
