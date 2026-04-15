@@ -20,7 +20,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=DA51F7&center=true&vCenter=true&width=435&lines=%F0%9F%93%8B+ESTAD%C3%8DSTICAS+%F0%9F%93%8B" alt="Typing SVG" /></a>
 </div>
 <div align="center">
-<a href="https://github.com/Angelithoxz"><img src="https://github-stats-alpha.vercel.app/api?username=iamDestroy&cc=000000&tc=7A7ADB&ic=2234AE&bc=130F40" width="450"/>
+<a href="https://github.com/Angelithoxz"><img src="https://github-stats-alpha.vercel.app/api?username=Angelithoxz&cc=000000&tc=7A7ADB&ic=2234AE&bc=130F40" width="450"/>
 </a>
   
 [![](https://moe-counter.glitch.me/get/@:iamDestroy?theme=aso)](https://moe-counter.glitch.me)
